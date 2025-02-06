@@ -4,6 +4,8 @@
 
 This project is a Python script that uses **Selenium** to scrape profile details from Twitter and store the data in a **MySQL database**. The script logs into Twitter, navigates to user profiles, extracts information such as bio, location, website, following count, and followers count, and stores the scraped data into a structured database table.
 
+![Result](MySql.jpg)
+
 ## Features
 - Uses **Selenium WebDriver** for web automation.
 - Logs into Twitter using credentials.
