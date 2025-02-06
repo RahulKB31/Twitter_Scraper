@@ -1,3 +1,4 @@
+# Importing Necessary libraries
 from scraper import scrape_profile_details, login_to_twitter, is_logged_in
 from database import setup_database, insert_into_database, fetch_all_profiles
 from utils import setup_driver

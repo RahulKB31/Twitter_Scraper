@@ -1,3 +1,4 @@
+# Importing Necessary libraries
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -106,7 +107,7 @@ def scrape_profile_details(driver, profile_url):
 
 
 
-        
+
 
 
 

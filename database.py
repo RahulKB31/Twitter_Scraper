@@ -1,3 +1,4 @@
+# Importing Necessary libraries
 import mysql.connector
 
 # Function to set up the database and create a table
